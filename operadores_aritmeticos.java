@@ -14,6 +14,6 @@ public class operadores_aritmeticos {
         System.out.println("b%a= "+(b%a));
         System.out.println("c%a= "+(c%a));
         System.out.println("a++= "+(++a));
-        System.out.println("b--= "+(--b));
+        System.out.println("d--= "+(--d));
     }
 }
